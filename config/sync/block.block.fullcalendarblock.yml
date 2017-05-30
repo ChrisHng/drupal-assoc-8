@@ -1,4 +1,4 @@
-uuid: 9357163d-2536-4d6a-9948-a12e2dcdc7c2
+uuid: d91dfc7d-e671-4f5d-85bc-b3f5b26eca2b
 langcode: en
 status: true
 dependencies:
@@ -9,12 +9,12 @@ dependencies:
 id: fullcalendarblock
 theme: da
 region: sidebar_first
-weight: 0
+weight: -2
 provider: null
 plugin: fullcalendarblock
 settings:
   id: fullcalendarblock
   label: 'FullCalendar Block'
   provider: da_calendar
-  label_display: visible
+  label_display: '0'
 visibility: {  }
