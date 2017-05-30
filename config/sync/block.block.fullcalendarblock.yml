@@ -1,0 +1,20 @@
+uuid: 9357163d-2536-4d6a-9948-a12e2dcdc7c2
+langcode: en
+status: true
+dependencies:
+  module:
+    - da_calendar
+  theme:
+    - da
+id: fullcalendarblock
+theme: da
+region: sidebar_first
+weight: 0
+provider: null
+plugin: fullcalendarblock
+settings:
+  id: fullcalendarblock
+  label: 'FullCalendar Block'
+  provider: da_calendar
+  label_display: visible
+visibility: {  }

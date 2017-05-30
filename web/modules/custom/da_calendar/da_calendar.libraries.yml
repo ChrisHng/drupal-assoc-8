@@ -1,0 +1,12 @@
+fullcalendar:
+  version: 3.4
+  css:
+    assets/css/fullcalendar.css: {}
+  js:
+    assets/js/moment.min.js: {}
+    assets/js/fullcalendar.js: {}
+    assets/js/load.js: {}
+  dependencies:
+    - core/jquery
+
+
